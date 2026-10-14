@@ -62,4 +62,3 @@ Data mentah ditampilkan dalam bentuk screenshot agar pembaca memahami struktur s
 
 ## 📌 Catatan
 - Folder `images/` berisi screenshot hasil analisis (raw data, PivotTable, slicer, PivotChart).
-- Pastikan nama file gambar sesuai dengan yang dipanggil di README agar link tidak rusak.
